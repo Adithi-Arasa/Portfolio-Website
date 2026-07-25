@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 
 ## 🚀 Live Demo
 
-*(Add your live website link here after deployment)*
+(https://github.com/Adithi-Arasa/Portfolio-Website)
 
 ---
 
