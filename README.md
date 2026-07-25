@@ -66,12 +66,6 @@ Portfolio-Website/
 
 ---
 
-## 📸 Preview
-
-*(Add a screenshot of your homepage here.)*
-
----
-
 ## 🎯 Future Improvements
 
 - Dark Mode
